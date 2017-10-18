@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.eclipse.php.debug.core.xdebugDebuggerSettingsProvider=<settings><proxyEnable>false</proxyEnable><clientPort>9000</clientPort><ownerId>php-extension-exe-C\:\\Program Files (x86)\\Zend\\Zend Studio 12.5.1\\plugins\\com.zend.php.debug.debugger.php55.win32_12.5.1.v20150514-2003\\resources\\php55\\php.exe</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress></settings>\u0005<settings><proxyEnable>false</proxyEnable><clientPort>9000</clientPort><ownerId>php-server-007f7bca-41ea-4dac-a5dc-c651e3048c02</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress></settings>\u0005<settings><proxyEnable>false</proxyEnable><clientPort>9000</clientPort><ownerId>php-extension-exe-C\:\\Program Files (x86)\\Zend\\Zend Studio 12.5.1\\plugins\\com.zend.php.debug.debugger.php55.win32_12.5.1.v20150514-2003\\resources\\php55\\php-cgi.exe</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress></settings>\u0005<settings><proxyEnable>false</proxyEnable><clientPort>9000</clientPort><ownerId>php-exe-2c77fead-47c0-477c-b234-0f7ff02af7b9</ownerId><proxyIdeKey></proxyIdeKey><proxyAddress></proxyAddress></settings>
+org.eclipse.php.debug.core.xdebug_remotesession=1
+org.eclipse.php.debug.core.zendExtendedDebuggerSettingsProvider=<settings><clientPort>10137</clientPort><ownerId>php-extension-exe-C\:\\Program Files (x86)\\Zend\\Zend Studio 12.5.1\\plugins\\com.zend.php.debug.debugger.php55.win32_12.5.1.v20150514-2003\\resources\\php55\\php.exe</ownerId></settings>\u0005<settings><clientIp>122.233.78.251,10.230.70.58,127.0.0.1</clientIp><clientPort>10137</clientPort><ownerId>php-server-007f7bca-41ea-4dac-a5dc-c651e3048c02</ownerId><responseTimeout>60000</responseTimeout></settings>\u0005<settings><clientPort>10137</clientPort><ownerId>php-extension-exe-C\:\\Program Files (x86)\\Zend\\Zend Studio 12.5.1\\plugins\\com.zend.php.debug.debugger.php55.win32_12.5.1.v20150514-2003\\resources\\php55\\php-cgi.exe</ownerId></settings>\u0005<settings><clientPort>10137</clientPort><ownerId>php-exe-2c77fead-47c0-477c-b234-0f7ff02af7b9</ownerId></settings>
+org.eclipse.php.debug.coreenable_cli_debug=false
+org.eclipse.php.debug.coreinstalledPHPDebuggers=org.eclipse.php.debug.core.zendDebugger
+org.eclipse.php.debug.coreinstalledPHPDefaults=org.eclipse.php.debug.core.zendDebugger\=PHP 5.5.19 (CLI)
+org.eclipse.php.debug.coreinstalledPHPInis=C\:\\LongerAppachPHP\\PHP\\php.ini
+org.eclipse.php.debug.coreinstalledPHPLoadIniDefaults=false
+org.eclipse.php.debug.coreinstalledPHPLocations=C\:\\LongerAppachPHP\\PHP\\php.exe
+org.eclipse.php.debug.coreinstalledPHPNames=PHP 7.1.2 (CLI)
+org.eclipse.php.debug.coreinstalledPHPUniqueIds=php-exe-2c77fead-47c0-477c-b234-0f7ff02af7b9
+org.eclipse.php.debug.coreoutput_encoding=
+org.eclipse.php.debug.corephp_versions=null
+org.eclipse.php.debug.corestop_at_first_line_string=false
+org.eclipse.php.debug.coretransfer_encoding=
